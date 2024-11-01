@@ -1,0 +1,20 @@
+timestamp,job_status,student,screentime,age
+11/1/2024 11:41:40,Employed,Yes,330,24
+11/1/2024 11:42:12,Unemployed,Yes,530,17
+11/1/2024 11:42:13,Employed,Yes,423,18
+11/1/2024 11:44:28,Unemployed,Yes,430,22
+11/1/2024 11:44:50,Employed,Yes,840,17
+11/1/2024 11:45:42,Employed,Yes,553,19
+11/1/2024 11:47:06,Unemployed,Yes,443,18
+11/1/2024 11:48:35,Employed,No,6,44
+11/1/2024 11:49:48,Unemployed,Yes,272,21
+11/1/2024 11:50:20,Employed,No,520,25
+11/1/2024 11:58:15,Unemployed,Yes,843,17
+11/1/2024 12:00:17,Unemployed,Yes,341,21
+11/1/2024 12:01:16,Employed,Yes,432,22
+11/1/2024 12:03:11,Employed,Yes,981,23
+11/1/2024 12:04:13,Unemployed,Yes,415,18
+11/1/2024 12:06:31,Employed,No,287,32
+11/1/2024 12:06:49,Employed,Yes,305,20
+11/1/2024 12:07:56,Unemployed,Yes,411,17
+11/1/2024 12:15:21,Employed,Yes,234,17
